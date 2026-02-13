@@ -24,7 +24,7 @@ This example demonstrates how to customize appearance settings (foreground and
 * [Getting Started (Accordion Control)](https://docs.devexpress.com/WPF/119805/controls-and-libraries/navigation-controls/accordion-control/getting-started)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-customize-appearance&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-customize-appearance&~~~was_helpful=no)
 
